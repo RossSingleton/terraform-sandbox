@@ -1,3 +1,12 @@
+terraform {
+    backend "s3" {
+        bucket = ""
+        key    = ""
+        region = "eu-west-1"
+        profile = "devopsguys-sandbox"
+    }
+}
+
 provider "aws" {
   region = "eu-west-1"
   profile = "devopsguys-sandbox"
