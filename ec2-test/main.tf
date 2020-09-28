@@ -1,7 +1,7 @@
 terraform {
     backend "s3" {
-        bucket = ""
-        key    = ""
+        bucket = "ross-temp-bucket"
+        key    = "terraform.tfstate"
         region = "eu-west-1"
         profile = "devopsguys-sandbox"
     }
