@@ -1,6 +1,6 @@
 ## Module Description
 
-This module is designed to be a reusable module for generating the 4 VM's in Vsphere that the MSO program will run on
+This module is designed to be a reusable module for generating a VM in VSphere, with sensible defaults for any Windows Based Application to allow for minimal configuration
 
 ## Requirements
 
