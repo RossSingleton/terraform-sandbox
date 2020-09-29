@@ -31,7 +31,7 @@ variable "memory" {
 }
 
 variable "network" {
-    description = "Network ID to connnect to"}
+    description = "Network ID to connnect to"
     type = string
 }
 
