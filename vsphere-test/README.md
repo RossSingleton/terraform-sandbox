@@ -1,3 +1,7 @@
+## Module Description
+
+This module is designed to be a reusable module for generating the 4 VM's in Vsphere that the MSO program will run on
+
 ## Requirements
 
 No requirements.
